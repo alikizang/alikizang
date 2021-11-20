@@ -5,7 +5,8 @@ Leetcode Offline
 Single Element in a Sorted Array 
 ------------------------------
 
-Given a sorted array consisting of only integers where every element appears twice except for one element which appears once. Find this single element that appears only once. 
+Given a sorted array consisting of only integers where every element appears twice except for one element which appears
+once. Find this single element that appears only once.
 
 
 Example 1:
@@ -31,7 +32,8 @@ Your solution should run in O(log n) time and O(1) space.
 Coin Change 2 
 ------------------------------
 
-You are given coins of different denominations and a total amount of money. Write a function to compute the number of combinations that make up that amount. You may assume that you have infinite number of each kind of coin.
+You are given coins of different denominations and a total amount of money. Write a function to compute the number of
+combinations that make up that amount. You may assume that you have infinite number of each kind of coin.
 
 
 Note: 
