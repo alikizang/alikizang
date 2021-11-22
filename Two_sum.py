@@ -26,5 +26,5 @@ def twoSum(nums, target):
         dictionary.update({nums[i]: i})
 
 
-x = twoSum([1, 2, 3, 5], 4)
+x = twoSum([1, 2, 3, 5], 6)
 print(x)
